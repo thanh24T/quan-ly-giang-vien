@@ -103,4 +103,4 @@ Bấm **Tải GiangVien.json** trong mục **Sao lưu JSON**, hoặc từ thư m
 npm.cmd --prefix server run export
 ```
 
-Nộp tệp JSON theo kênh của môn học. Có thể dùng `GiangVien.json` trong repo để chạy thử hoặc `GiangVien-Nhap-Mau.json` để thử đối chiếu mã trùng. Báo cáo nộp bài cần có ảnh thao tác trên web, ảnh collection `QLHocPhan.GiangVien` trong MongoDB Compass, ảnh chạy trên Android và liên kết video demo.
+Nộp tệp JSON theo kênh của môn học. Có thể dùng `GiangVien.json` trong repo để chạy thử. Báo cáo nộp bài cần có ảnh thao tác trên web, ảnh collection `QLHocPhan.GiangVien` trong MongoDB Compass, ảnh chạy trên Android và liên kết video demo.
