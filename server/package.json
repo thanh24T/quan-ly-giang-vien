@@ -1,0 +1,16 @@
+{
+  "name": "accessories-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file-if-exists=.env index.js",
+    "export": "node --env-file-if-exists=.env export.js",
+    "admin:save": "node --env-file-if-exists=.env save-admin.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mongodb": "^6.21.0"
+  }
+}
